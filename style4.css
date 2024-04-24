@@ -26,5 +26,10 @@ background-color: darkgoldenrod;
 
 }
 #smal{
-    background-color: rgb(107, 13, 126);
+    background-color: rgb(150, 118, 156);
+    border: 2px solid black;
+}
+#never{
+    background-color: burlywood;
+    color: brown;
 }
