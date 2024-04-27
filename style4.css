@@ -4,10 +4,11 @@
     margin-left:5px;
     margin-top: 20px;
     border-radius: 9px;
+    width: 400px;
     
 }
 .unknown{
-    text-align: center;
+   text-align:center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
@@ -17,18 +18,17 @@ h2{
 }
 #yt{
     color: rgb(214, 198, 211);
-    background-color: brown;
+    background-color: rgb(218, 23, 114);
     width: 70px;
-    border: 5px dashed black;
+    border: 2px dashed black;
+    font-size: large;
 }
 #bold{
-background-color: darkgoldenrod;
+background-color: rgb(17, 211, 66);
+border: 4px solid rebeccapurple;
+width: 1290px;
+}
 
-}
-#smal{
-    background-color: rgb(150, 118, 156);
-    border: 2px solid black;
-}
 #never{
     background-color: burlywood;
     color: brown;
